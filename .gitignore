@@ -1,0 +1,5 @@
+data/mouse_movements/*
+__pycache__/
+*.pkl
+data/logs/*
+.env
